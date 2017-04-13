@@ -4,7 +4,7 @@
 
 FROM ubuntu:16.04
 
-MAINTAINER Erik Swanson "erik.swanson@cidresearch.orgr"
+MAINTAINER Erik Swanson "erik.swanson@cidresearch.org"
 
 ENV LMOD_VER 7.4.5
 
